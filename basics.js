@@ -47,3 +47,6 @@ var dataTypes = ["string", 31, false, null, undefined, {}];
          console.log(dog.bark);
      }
  }
+
+
+ 
